@@ -1,2 +1,2 @@
 # Data-structure
-Some structures in QT Creator
+Some structures in C plus plus 
